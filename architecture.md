@@ -18,7 +18,7 @@ root      3008  2752  0 11:51 ?        00:00:00 docker-containerd-shim -namespac
 ```
 
 
-#Docker 组件
+# Docker 组件
 
 - docker
 - docker-containerd-ctr
@@ -29,7 +29,7 @@ root      3008  2752  0 11:51 ?        00:00:00 docker-containerd-shim -namespac
 - docker-init
 - docker-proxy
 
-#Docker 组件关系
+# Docker 组件关系
 ```
 docker     ctr
   |         |
